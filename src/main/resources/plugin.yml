@@ -1,0 +1,9 @@
+name: Storyoflemon
+version: Alpha-1.0.0
+main: com.ddang_.storyoflemon.Storyoflemon
+api-version: 1.19
+authors: [ DDang_ ]
+description: Minecraft 1.19 Map Story of Lemon Main System
+website: https://github.com/I-am-ddang
+depend:
+  - Kotlin
